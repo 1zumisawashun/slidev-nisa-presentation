@@ -1,9 +1,3 @@
----
-theme: seriph
-layout: cover
-background: "https://source.unsplash.com/1600x900/?nature,water"
----
-
 # NISA とは？
 
 <div grid="~ cols-2 gap-16">

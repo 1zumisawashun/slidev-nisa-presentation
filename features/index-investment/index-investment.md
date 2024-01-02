@@ -1,9 +1,3 @@
----
-theme: seriph
-layout: cover
-background: "https://source.unsplash.com/1600x900/?nature,water"
----
-
 # インデックス投資とは？
 
 インデックス投資とは、企業の株を個別に売買するのではなく、日経平均株価・TOPIX・S&P500・ダウ平均のような指数（インデックス）と同じ値動きを目指して運用する投資手法のこと
