@@ -34,3 +34,9 @@ layout: cover
 background: "https://source.unsplash.com/1600x900/?money"
 src: ./pages/06_compound-interest.md
 ---
+---
+transition: slide-left
+layout: cover
+background: "https://source.unsplash.com/1600x900/?money"
+src: ./pages/07_summary.md
+---

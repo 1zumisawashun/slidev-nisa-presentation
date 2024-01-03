@@ -1,13 +1,17 @@
 # 新 NISA とは？
 
-<div grid="~ cols-2 gap-16">
+2024 年以降、NISA の抜本的拡充・恒久化が図られた新しい NISA のこと
+
+<div grid="~ cols-2 gap-20">
 <div>
 
-- 新 NISA で何が変わったの？
+### 新 NISA で何が変わったの？
 
-  - 非課税枠が 1,800 万円まで増えた
-  - 非課税期間が無期限になった
-  - 売却したら非課税枠が復活するようになった
+<br/>
+
+- 非課税枠が 1,800 万円まで増えた
+- 非課税期間が無期限になった
+- 売却したら非課税枠が復活するようになった
 
 <br/>
 
@@ -17,7 +21,7 @@
 
 <div>
 
-[<img border="rounded" src="/image_nisa.png?raw=true">](https://www.wealthnavi.com/contents/column/122/)
+<img border="rounded" src="/image_nisa.png?raw=true">
 
 </div>
 </div>
