@@ -26,17 +26,11 @@ src: ./pages/04_index-investment.md
 transition: slide-left
 layout: cover
 background: "https://source.unsplash.com/1600x900/?money"
-src: ./pages/05_my-example.md
+src: ./pages/05_compound-interest.md
 ---
 ---
 transition: slide-left
 layout: cover
 background: "https://source.unsplash.com/1600x900/?money"
-src: ./pages/06_compound-interest.md
----
----
-transition: slide-left
-layout: cover
-background: "https://source.unsplash.com/1600x900/?money"
-src: ./pages/07_summary.md
+src: ./pages/06_summary.md
 ---
