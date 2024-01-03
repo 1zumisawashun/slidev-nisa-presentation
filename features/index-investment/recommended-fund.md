@@ -4,7 +4,7 @@
 
 ### インデックスファンドとは？
 
-<div grid="~ cols-2 gap-4">
+<div grid="~ cols-3 gap-4">
 <div>
 
 - eMAXIS Slim 全世界株式（オール・カントリー）
@@ -16,7 +16,19 @@
 </div>
 <div>
 
-- eMAXIS Slim S&P500
+<Youtube id="jamExbPx-kg?si=7J7-WDVjoqG3fae0"/>
+<Youtube id="py7vc_QUMAM?si=WHknjjo_M8Qr8Hwv"/>
+
+<!-- - eMAXIS Slim S&P500
+  - 20 代から 65 歳くらいまでの長期運用が想定されるのでリスクを低く抑えたい
+  - 結局 60%はアメリカに投資している
+  - 世界経済が衰退することは考えにくい
+  - 最近になって信託報酬（世界中の会社をちょっとずつ買うための手数料）が 0.1133%から 0.0577%と半額された -->
+
+</div>
+<div>
+
+<Youtube id="OgX42mnArh4?si=HH1FlXuxMEdYxXjz"/>
 
 </div>
 </div>
