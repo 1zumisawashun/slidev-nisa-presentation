@@ -1,4 +1,7 @@
 ---
+src: ../features/summary/display.md
+---
+---
 src: ../features/summary/trouble-shooting.md
 ---
 ---

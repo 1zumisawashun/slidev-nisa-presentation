@@ -1,4 +1,7 @@
 ---
+src: ../features/nisa/display.md
+---
+---
 src: ../features/nisa/nisa.md
 ---
 ---

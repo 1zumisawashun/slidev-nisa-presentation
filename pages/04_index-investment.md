@@ -1,4 +1,7 @@
 ---
+src: ../features/index-investment/display.md
+---
+---
 src: ../features/index-investment/index-investment.md
 ---
 ---
