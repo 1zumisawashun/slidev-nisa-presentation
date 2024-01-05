@@ -8,13 +8,12 @@
 
 <Youtube id="z1i87e0x1LI?si=uVabtHZQJCp-nX_M"/>
 
-https://www.nikkei.com/article/DGXZQOUB195FA0Z11C23A0000000/
-
 ---
 
 # トラブルシューティング
 
 ### 証券会社が潰れたらどうなるの？
 
+- 基本的に損失の可能性は低い
 
 <Youtube id="wdkeoIzVzTg?si=qyaIfeihRIWloobJ"/>
