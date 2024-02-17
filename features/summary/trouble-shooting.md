@@ -1,4 +1,4 @@
-# トラブルシューティング
+# トラブルシューティング_01
 
 ### クレカ投資がおすすめ
 
@@ -10,10 +10,11 @@
 
 ---
 
-# トラブルシューティング
+# トラブルシューティング_02
 
 ### 証券会社が潰れたらどうなるの？
 
-- 基本的に損失の可能性は低い
+- [基本的に損失の可能性は低い](https://www.toushin.or.jp/investmenttrust/meritrisk/safety/index.html)
+- 逆に銀行の場合は潰れたら1,000万円しか保証されない
 
 <Youtube id="wdkeoIzVzTg?si=qyaIfeihRIWloobJ"/>
