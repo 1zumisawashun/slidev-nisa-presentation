@@ -1,11 +1,21 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# slidev-nisa-presentation
 
-To start the slide show:
+pnpm workspace + Turborepo で管理する Slidev モノレポです。
 
-- `npm install`
-- `npm run dev`
-- visit http://localhost:3030
+## Apps
 
-Edit the [slides.md](./slides.md) to see the changes.
+- `apps/nisa-presentation`: 現在の NISA 向け Slidev アプリ
 
-Learn more about Slidev on [documentations](https://sli.dev/).
+## 開発
+
+```bash
+pnpm install
+pnpm dev:nisa-presentation
+```
+
+## ビルド
+
+```bash
+pnpm build
+pnpm build:nisa-presentation
+```

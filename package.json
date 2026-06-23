@@ -1,14 +1,16 @@
 {
   "name": "slidev-nisa-presentation",
   "private": true,
+  "packageManager": "pnpm@11.5.2",
   "scripts": {
-    "build": "slidev build",
-    "dev": "slidev --open",
-    "export": "slidev export"
+    "build": "turbo run build",
+    "dev": "turbo run dev --parallel",
+    "export": "turbo run export",
+    "build:nisa-presentation": "turbo run build --filter=nisa-presentation",
+    "dev:nisa-presentation": "turbo run dev --filter=nisa-presentation",
+    "export:nisa-presentation": "turbo run export --filter=nisa-presentation"
   },
-  "dependencies": {
-    "@slidev/cli": "^0.40.12",
-    "@slidev/theme-default": "*",
-    "@slidev/theme-seriph": "*"
+  "devDependencies": {
+    "turbo": "^2.9.18"
   }
 }
