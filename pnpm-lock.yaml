@@ -15,14 +15,14 @@ importers:
   apps/nisa-presentation:
     dependencies:
       '@slidev/cli':
-        specifier: ^0.40.12
+        specifier: 0.40.16
         version: 0.40.16(@babel/parser@7.29.7)(@nuxt/kit@3.21.8)(@vue/compiler-sfc@3.5.38)(postcss@8.5.15)(rollup@3.30.0)
       '@slidev/theme-default':
-        specifier: '*'
-        version: 0.25.0
+        specifier: 0.21.2
+        version: 0.21.2
       '@slidev/theme-seriph':
-        specifier: '*'
-        version: 0.25.0
+        specifier: 0.21.3
+        version: 0.21.3
 
 packages:
 
@@ -400,21 +400,21 @@ packages:
     resolution: {integrity: sha512-mINHg2vXMOaJ+8zK5SB4M39x/PIB5/XWdKxnvszoQ7JPrX+V5+LPJq7dCBDlShcVCifpLhuZiueltoHC7w1aaw==}
     engines: {node: '>=14.0.0'}
 
-  '@slidev/theme-default@0.25.0':
-    resolution: {integrity: sha512-iWvthH1Ny+i6gTwRnEeeU+EiqsHC56UdEO45bqLSNmymRAOWkKUJ/M0o7iahLzHSXsiPu71B7C715WxqjXk2hw==}
-    engines: {node: '>=14.0.0', slidev: '>=v0.47.0'}
+  '@slidev/theme-default@0.21.2':
+    resolution: {integrity: sha512-neUucFs2YrRZZd73QwvLTyRG/o1nerDFUR5t8YAmXVLTMzWfY71flQ6aAhjYf+WjsozYsOHcxi/pZtIzZ4VhTQ==}
+    engines: {node: '>=14.0.0', slidev: '>=0.19.2'}
 
-  '@slidev/theme-seriph@0.25.0':
-    resolution: {integrity: sha512-PnFQbn4I70+/cVie5iAr0Im6sYvnwjkO7Yj5KonTyJZFFJFytckLTrD3ijft/J4cRnz7OmSzTyQKNX1FN/x0YQ==}
-    engines: {node: '>=14.0.0', slidev: '>=v0.47.0'}
+  '@slidev/theme-seriph@0.21.3':
+    resolution: {integrity: sha512-cLya6O4hmcLHUhloCMPPoKMLX27Q+8M8pRS82BSsLXVeXTXrlpc3l3glx5VB738p+NQr7FgqFN6H2CXQRoVv9Q==}
+    engines: {node: '>=14.0.0', slidev: '>=0.19.3'}
+
+  '@slidev/types@0.22.7':
+    resolution: {integrity: sha512-mCVKQbcGTv6d6n9aHpYNp5U04HF+FMbpY083vqpJ6Folc805BB1Am02eubaW0J6nM+dSOu2dDgPY+kIjs75sAQ==}
+    engines: {node: '>=14.0.0'}
 
   '@slidev/types@0.40.16':
     resolution: {integrity: sha512-gJ2kgbln/RoYct6n3umDLmyI6xqPQZgGa4n6sltsXiOfWASDMfI5hoWvhpKsio3Wegw4uvBdbQ8zO4rofIKcmQ==}
     engines: {node: '>=14.0.0'}
-
-  '@slidev/types@0.47.5':
-    resolution: {integrity: sha512-X67V4cCgM0Sz50bP8GbVzmiL8DHC2IXvdKcsN7DlxHyf+/T4d9GveeGukwha5Fx3MuYeGZWKag7TFL2ZY4w54A==}
-    engines: {node: '>=18.0.0'}
 
   '@turbo/darwin-64@2.9.18':
     resolution: {integrity: sha512-9f27peFu16ur8c0v9nUFUEyBnbKuuFsUTjHFWfmwGfzySBXbHwzU44QhZon6Mznz0cHsIr3984NQj/bVrnGSRw==}
@@ -2018,6 +2018,10 @@ packages:
     resolution: {integrity: sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w==}
     engines: {node: '>= 0.4'}
 
+  theme-vitesse@0.1.14:
+    resolution: {integrity: sha512-b5s+Zpfaw5+djoCJ9AEbcTbpiTlLsOvGM9oblDmmWRGWNqg9oXtEYO/uwubwx77novHBI6zNuwZRHKNlAIBo4A==}
+    engines: {vscode: ^1.43.0}
+
   tinyexec@1.2.4:
     resolution: {integrity: sha512-SHf/r48b7vOrjve9PxJo3MN5v5yuyjHvdUcrQffT3WXMUfnGmHDVbC4k3sHJaJTgZCwpUplIaAo5ANtMyp3YHg==}
     engines: {node: '>=18'}
@@ -2818,21 +2822,23 @@ snapshots:
       '@slidev/types': 0.40.16
       js-yaml: 4.2.0
 
-  '@slidev/theme-default@0.25.0':
+  '@slidev/theme-default@0.21.2':
     dependencies:
-      '@slidev/types': 0.47.5
+      '@slidev/types': 0.22.7
       codemirror-theme-vars: 0.1.2
       prism-theme-vars: 0.2.5
+      theme-vitesse: 0.1.14
 
-  '@slidev/theme-seriph@0.25.0':
+  '@slidev/theme-seriph@0.21.3':
     dependencies:
-      '@slidev/types': 0.47.5
+      '@slidev/types': 0.22.7
       codemirror-theme-vars: 0.1.2
       prism-theme-vars: 0.2.5
+      theme-vitesse: 0.1.14
+
+  '@slidev/types@0.22.7': {}
 
   '@slidev/types@0.40.16': {}
-
-  '@slidev/types@0.47.5': {}
 
   '@turbo/darwin-64@2.9.18':
     optional: true
@@ -4619,6 +4625,8 @@ snapshots:
   stylis@4.4.0: {}
 
   supports-preserve-symlinks-flag@1.0.0: {}
+
+  theme-vitesse@0.1.14: {}
 
   tinyexec@1.2.4: {}
 

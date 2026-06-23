@@ -1,6 +1,0 @@
-$ slidev build --base /slidev-nisa-presentation/
-Error: [slidev] theme "@slidev/theme-default" requires Slidev version range ">=v0.47.0" but found "0.40.16"
-    at getThemeMeta (/home/runner/work/slidev-nisa-presentation/slidev-nisa-presentation/node_modules/.pnpm/@slidev+cli@0.40.16_@babel+parser@7.29.7_@nuxt+kit@3.21.8_@vue+compiler-sfc@3.5.38_postcss@8.5.15_rollup@3.30.0/node_modules/@slidev/cli/dist/chunk-ZWPKUGOZ.js:7696:13)
-    at async resolveOptions (/home/runner/work/slidev-nisa-presentation/slidev-nisa-presentation/node_modules/.pnpm/@slidev+cli@0.40.16_@babel+parser@7.29.7_@nuxt+kit@3.21.8_@vue+compiler-sfc@3.5.38_postcss@8.5.15_rollup@3.30.0/node_modules/@slidev/cli/dist/chunk-ZWPKUGOZ.js:7647:23)
-    at async Object.handler (/home/runner/work/slidev-nisa-presentation/slidev-nisa-presentation/node_modules/.pnpm/@slidev+cli@0.40.16_@babel+parser@7.29.7_@nuxt+kit@3.21.8_@vue+compiler-sfc@3.5.38_postcss@8.5.15_rollup@3.30.0/node_modules/@slidev/cli/dist/cli.js:248:23)
-[ELIFECYCLE] Command failed with exit code 1.
