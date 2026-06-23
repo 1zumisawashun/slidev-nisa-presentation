@@ -1,9 +1,11 @@
 # Welcome to [Slidev](https://github.com/slidevjs/slidev)!
 
-To start the slide show:
+This app lives in `apps/nisa-presentation` inside the monorepo.
 
-- `npm install`
-- `npm run dev`
+To start the slide show from the repository root:
+
+- `pnpm install`
+- `pnpm dev:nisa-presentation`
 - visit http://localhost:3030
 
 Edit the [slides.md](./slides.md) to see the changes.

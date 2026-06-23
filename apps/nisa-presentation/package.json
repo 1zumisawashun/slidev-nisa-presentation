@@ -1,5 +1,5 @@
 {
-  "name": "slidev-nisa-presentation",
+  "name": "nisa-presentation",
   "private": true,
   "scripts": {
     "build": "slidev build",
